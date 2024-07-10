@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SDWRyanYT's webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: #333;
+        }
+        header {
+            background-color: #ff7e5f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #ff7e5f;
+        }
+        .content {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #feb47b;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #ff7e5f;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to SDWRyanYt's Webpage</h1>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p class="content">Hi, I'm Ryan. I'm passionate about clothing and entertainment including my upcoming Youtube Channel. I enjoy gaming and football and am always looking to learn and grow in my passions and hobbies.</p>
+</section>
+
+<section>
+    <h2>What I'm Doing</h2>
+    <p class="content">Currently, I am working on making a entertaining Youtube Channel and making a clothing brand. I am involved in gaming and sporting activities and am focused on making Youtube and clothes my main focus.</p>
+</section>
+
+<section>
+    <h2>Other Accounts</h2>
+    <p class="content">You can find me on the following platforms:</p>
+    <div class="social-links">
+        <a href="https://www.instagram.com/in/ryanjammy_rwj">instagram</a>
+        <a href="https://tiktok/dtfr_ryan.2"></a> 
+        <a href="https://snapchat/ryanjammyrwj">snapchat</a>
+       =
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ryan. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
